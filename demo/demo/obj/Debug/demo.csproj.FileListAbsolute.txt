@@ -1,0 +1,33 @@
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\bin\Debug\demo.exe.config
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\bin\Debug\EMPDEPT.mdf
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\bin\Debug\EMPDEPT_log.ldf
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\bin\Debug\demo.exe
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\bin\Debug\demo.pdb
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\obj\Debug\demo.exe
+c:\users\hallgato\documents\visual studio 2013\Projects\demo\demo\obj\Debug\demo.pdb
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\bin\Debug\demo.exe.config
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\obj\Debug\demo.exe
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\obj\Debug\demo.pdb
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\bin\Debug\EMPDEPT.mdf
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\bin\Debug\EMPDEPT_log.ldf
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\bin\Debug\demo.exe
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\bin\Debug\demo.pdb
+C:\Users\Zac\Google Drive\Neumann\SZT2\HP\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\demo.exe.config
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\obj\Debug\demo.exe
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\obj\Debug\demo.pdb
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\EMPDEPT.mdf
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\EMPDEPT_log.ldf
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\demo.exe
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\demo.pdb
+C:\Users\Zoltán\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\EMPDEPT.mdf
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\EMPDEPT_log.ldf
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\demo.exe.config
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\demo.exe
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\bin\Debug\demo.pdb
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\obj\Debug\demo.exe
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\obj\Debug\demo.pdb
+C:\Users\Zozo07\Google Drive\Neumann\SZT2\HP\demo (nagy SQL-es)\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:GUI" x:Class="GUI.MainWindow"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Window.Resources>   
+        <local:EMPDEPTDataSet x:Key="eMPDEPTDataSet"/>
+        <CollectionViewSource x:Key="dEPTViewSource" Source="{Binding DEPT, Source={StaticResource eMPDEPTDataSet}}"/>
+        <CollectionViewSource x:Key="eMPViewSource" Source="{Binding EMP, Source={StaticResource eMPDEPTDataSet}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource dEPTViewSource}">
+        <DataGrid x:Name="eMPDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource eMPViewSource}}" Margin="10,10,10,0" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="eMPNOColumn" Binding="{Binding EMPNO}" Header="EMPNO" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="eNAMEColumn" Binding="{Binding ENAME}" Header="ENAME" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="jOBColumn" Binding="{Binding JOB}" Header="JOB" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="mGRColumn" Binding="{Binding MGR}" Header="MGR" Width="SizeToHeader"/>
+                <DataGridTemplateColumn x:Name="hIREDATEColumn" Header="HIREDATE" Width="SizeToHeader">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding HIREDATE, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn x:Name="sALColumn" Binding="{Binding SAL}" Header="SAL" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="cOMMColumn" Binding="{Binding COMM}" Header="COMM" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="dEPTNOColumn" Binding="{Binding DEPTNO}" Header="DEPTNO" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
