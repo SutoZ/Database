@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Csapatok>
+  <Csapat Nev="gabi" Varos="Dunaujvaros" Alapitas="1996" />
+  <Csapat Nev="hobo" Varos="Dunaujvaros" Alapitas="1997" />
+  <Csapat Nev="alice" Varos="Dunaujvaros" Alapitas="1990" />
+  <Csapat Nev="dani" Varos="Dunaujvaros" Alapitas="1993" />
+  <Csapat Nev="bob" Varos="Pest" Alapitas="1991" />
+  <Csapat Nev="elemer" Varos="Dunaujvaros" Alapitas="1994" />
+  <Csapat Nev="feri" Varos="Dunaujvaros" Alapitas="1995" />
+  <Csapat Nev="paksony" Varos="Paks" Alapitas="2000" />
+  <Csapat Nev="caci" Varos="Dunaujvaros" Alapitas="1992" />
+  <Csapat Nev="ilona" Varos="Dunaujvaros" Alapitas="1998" />
+  <Csapat Nev="takony" Varos="Dunaujvaros" Alapitas="1999" />
+</Csapatok>
